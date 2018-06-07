@@ -1,0 +1,24 @@
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe.config
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.pdb
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.csprojResolveAssemblyReference.cache
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.exe
+D:\Projects\UHCL Assignments\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.pdb
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe.config
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.exe
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.pdb
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.pdb
+C:\Users\gowri\Desktop\CPSM_Almubaid\project\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.csprojResolveAssemblyReference.cache
+F:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe.config
+F:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.exe
+F:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.pdb
+F:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe
+F:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.pdb
+F:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.csprojResolveAssemblyReference.cache
+A:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe.config
+A:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.exe
+A:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.pdb
+A:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.exe
+A:\Telephone Directory Search\Telephone Directory Search\bin\Debug\Telephone Directory Search.pdb
+A:\Telephone Directory Search\Telephone Directory Search\obj\Debug\Telephone Directory Search.csprojResolveAssemblyReference.cache
